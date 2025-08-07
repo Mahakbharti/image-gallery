@@ -13,7 +13,7 @@ This is a stylish, responsive, and scrollable **Image Gallery** built using **HT
 
 📸 Preview
 
-![Image Gallery Preview](https://drive.google.com/file/d/1Y8iVdHi7uk3bzWlItYaJceGKLwqUYZdN/view?usp=sharing)
+![Image Gallery Preview](https://drive.google.com/drive/u/1/my-drive)
 
  🔧 Tech Stack
 
