@@ -11,10 +11,6 @@ This is a stylish, responsive, and scrollable **Image Gallery** built using **HT
 - Modern layout using Flexbox
 - Scroll indicator or custom scrollbar
 
-📸 Preview
-
-![Image Gallery Preview](https://drive.google.com/file/d/1oihgOu86dnyKGs0iqhLwR3q961J8T-ce/view?usp=sharing)
-
  🔧 Tech Stack
 
 - HTML5
